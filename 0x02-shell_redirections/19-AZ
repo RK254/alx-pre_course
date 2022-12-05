@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "A" "Z" | tr "z" "e"
+tar "A" "Z" | tar "c" "e"
