@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	char casel;
+	char lc;
 
-	for (casel = 'a'; casel <= 'z'; casel++)
-		putchar(casel);
+	for (lc = 'a'; lc <= 'z'; lc++)
+		putchar(lc);
 		putchar('\n');
 
 	return (0);
