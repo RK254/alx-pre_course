@@ -8,7 +8,7 @@
  * Return: Alaways 0 (Success)
  */
 
-int main (void)
+int main(void)
 {
 	char lc;
 
