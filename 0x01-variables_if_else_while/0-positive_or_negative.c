@@ -3,10 +3,9 @@
 #include <time.h>
 
 /**
- * comments section
+ * main - Entry point
  * 
- * if no erors return(0)
- *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
