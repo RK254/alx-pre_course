@@ -10,11 +10,10 @@
 
 int main()
 {
-	char lcase;
+	char l;
 
-	for (lcase = 'a'; lcase <= 'z'; lcase++)
-		putchar(lcase);
-		putchar('\n');
+	for (l = 'a'; l <= 'z'; ++l)
+		putchar("%d\n", l);
 
 	return 0;
 }
