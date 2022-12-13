@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(void)
+int main()
 {
 	char lcase;
 
@@ -16,5 +16,5 @@ int main(void)
 		putchar(lcase);
 		putchar('\n');
 
-	return (0);
+	return 0;
 }
