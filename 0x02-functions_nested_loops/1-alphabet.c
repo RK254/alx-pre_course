@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * priny_alphabet - prints alphabet
+ *main - Entry point
+ *print_alphabet - prints alphabet
  *Return: void 
  */
 
