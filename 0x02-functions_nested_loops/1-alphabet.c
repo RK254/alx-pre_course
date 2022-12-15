@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- *Return: Always 1 (Success)
+ * priny_alphabet - prints alphabet
+ *Return: void 
  */
 
 void print_alphabet(void)
