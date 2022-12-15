@@ -3,7 +3,7 @@
 /**
  *main - Entry point
  *print_alphabet - prints alphabet
- *Return: void 
+ *Return: void
  */
 
 void print_alphabet(void)
