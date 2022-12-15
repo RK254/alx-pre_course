@@ -2,7 +2,7 @@
 
 /**
  *main - Entry point
- *print_alphabet - prints alphabet
+ *Description: 'print_alphabet - prints alphabet'
  *Return: void
  */
 
